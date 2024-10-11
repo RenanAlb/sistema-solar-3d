@@ -2,7 +2,7 @@
 
 Um sistema solar 3d feito com ThreeJS, HTML, CSS e JS.
 
-Imagens do Projeto:>
+Imagens do Projeto:
 
 ![Imagem 1](img/img1.png)
 ![Imagem 2](img/img2.png)
